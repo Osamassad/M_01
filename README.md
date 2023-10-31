@@ -1,6 +1,6 @@
-# M_01
-the repository shall contain some samples for this course
+# SDD Section 1 Course
+The Repository shall contain some samples for this course, this shall include:
 
 - markdown
-- asciidoc
-- word document
+- AsciiDoc
+- Word Document
